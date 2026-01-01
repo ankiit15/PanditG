@@ -1,0 +1,25 @@
+📁 PanditG/
+├── 📁 frontend/              # Flutter or React app UI
+│   ├── 📁 assets/             # Icons, fonts, background images
+│   ├── 📁 components/         # Reusable UI components
+│   └── main.dart / index.js  # Entry point
+│
+├── 📁 backend/               # Node.js or Python Flask backend
+│   ├── 📁 routes/             # API routes
+│   ├── 📁 controllers/        # Business logic
+│   └── server.js / app.py    # Backend entry point
+│
+├── 📁 ml-model/              # AI/ML models for palm reading, horoscope prediction
+│   ├── palm_reader.py
+│   ├── horoscope_engine.py
+│   └── model_weights/
+│
+├── 📁 database/              # Firebase rules or MongoDB schema
+│   └── userSchema.js
+│
+├── 📁 docs/                  # Hackathon pitch deck, PDFs
+│   └── PanditG_Pitch_Deck.pdf
+│
+├── README.md                # Project overview, setup, team, tech stack
+├── .gitignore               # Files to ignore in Git
+└── LICENSE                  # Optional open-source license
