@@ -37,5 +37,7 @@
 
 ---
 
-## 🛠️ Folder Structure
+## 🛠️ Contributors 
+
+@ankiit15 , @dikshah16
 
