@@ -31,11 +31,6 @@
 
 ---
 
-## 📸 Screenshots (Preview)
-
-> Coming soon — includes Splash Screen, Palm Scanner, Dashboard, and ChatBot UI.
-
----
 
 ## 🛠️ Contributors 
 
